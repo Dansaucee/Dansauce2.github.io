@@ -1,0 +1,128 @@
+body {
+    background-color: black;
+    margin: auto; /* Add to remove default body margin */
+  }
+  
+  img {
+    width: 77px;
+    height: 77px;
+    position: auto;
+  }
+  
+  .facebook {
+    left: 137px;
+    top: 524px;
+  }
+  
+  .twitter {
+    left: 268px;
+    top: 529px;
+  }
+  
+  .instagram {
+    left: 400px;
+    top: 524px;
+  }
+  
+  .name {
+    width: 469px;
+    height: 53px;
+    left: 89px;
+    top: 401px;
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    font-family: "Kumbh Sans", sans-serif;
+    font-weight: normal;
+  }
+  
+  .rotation {
+    width: 1255.25px;
+    height: 0px;
+    left: 372px;
+    top: 12px;
+    position: absolute;
+    transform: rotate(54.66deg);
+    transform-origin: 0 0;
+    border: 1px solid white;
+  }
+  
+  .about-me {
+    height: 359px;
+    left: 827px;
+    top: 290px;
+    position: absolute;
+  }
+  
+  .about-me-heading {
+    width: 244.57px;
+    height: 51.43px;
+    left: 169px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    font-family: "Kumbh Sans", sans-serif;
+    font-weight: normal;
+  }
+  
+  .about-me-content {
+    width: 581px;
+    height: 300px;
+    left: 0px;
+    top: 59px;
+    position: absolute;
+    color: white;
+    font-size: 36px;
+    font-family: "Kumbh Sans", sans-serif;
+    font-weight: normal;
+  }
+  
+  .header {
+    width: 100%; /* Changed to full width */
+    height: 213px;
+    position: absolute;
+    background: #2E4E58;
+  }
+  
+  .footer {
+    width: 100%; /* Changed to full width */
+    height: 36px;
+    bottom: 0; /* Changed to stick to the bottom */
+    position: absolute;
+    background: #2E4E58;
+  }
+  
+  .email {
+    width: 465px;
+    height: 92px;
+    left: 93px;
+    top: 649px;
+    position: absolute;
+    color: white;
+    font-size: 36px;
+    font-family: "Kumbh Sans", sans-serif;
+    font-weight: normal;
+  }
+  
+  .DN {
+    width: 248px;
+    height: 139px;
+    left: 611px;
+    top: 37px;
+    position: absolute;
+    color: white;
+    font-size: 128px;
+    font-family: "Krona One", sans-serif;
+    font-weight: normal;
+  }
+  
+  .profile-image {
+    width: 236px;
+    height: 226px;
+    left: 186px;
+    top: 128px;
+    position: absolute;
+    border-radius: 50%; /* Changed to make it a circle */
+  }
+  
